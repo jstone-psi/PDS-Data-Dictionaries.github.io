@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-PDS4 Local Data Dictionaries (LDDs)
-===================================
+PDS4 Local Data Dictionaries (LDDs) 2
+=====================================
 
 The NASA Planetary Data System PDS4 Data Dictionaries Repo is used for managing PDS4 Local Data Dictionaries (LDDs) for the `PDS4 Information Model <https://nasa-pds-incubator.github.io/pds4-information-model/>`_. LDDs are a critical component of the `PDS4 Data Standard <https://pds.nasa.gov/datastandards/about/>`_.
 
